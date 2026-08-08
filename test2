@@ -1,3 +1,1115 @@
-	<p dir="rtl" style="text-align:right; font-family:Tahoma, Arial, sans-serif; font-size:12px; line-height:1.9; color:#000000; margin:0;">
-									يُُرجى عدم الرد على هذا البريد الإلكتروني. بالتأكيد نودّّ مساعدتك، إلا أن هذه الرسائل لا تخضع للمراقبة. إذا كانت لديك أسئلة، يُُرجى <a   href="#" style="color:#1A3673; text-decoration: underline;" target="_blank">تسجيل الدخول للتحدث مع أحد</a> أحد <span style="color: #333333; text-decoration: underline;">الممثلين</span> في أثناء ساعات العمل. تعد هذه الطريقة الأسرع والأسلم للتواصل معنا. يمكنك أيضًًا الاتصال بممثل عبر الهاتف <span class="ltr">(TRS 711)</span> <span class="ltr">833-731-2153</span> ، من الاثنين<br>
-									إلى الجمعة، من الساعة 7 صباحًًا إلى 5:30 مساءًً بتوقيت المنطقة الوسطى.</p>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+  <head>
+    <!--[if gte mso 7]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+    <meta name="format-detection" content="telephone=no" >
+    <meta name="format-detection" content="date=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" > 
+    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" >
+    <title>%%=CONCAT("Message from ", TreatAsContent(replyname))=%%
+    </title>
+    
+    <!--Dark Mode meta tags needed to enable Dark Mode in email client user agents-->
+    <meta name="color-scheme" content="light only">
+    <meta name="supported-color-schemes" content="light only">
+   
+    <style type="text/css">
+        :root {
+          color-scheme: light only;
+          supported-color-schemes: light only;
+        }
+      
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+    </style>
+    <style type="text/css">
+      body {
+        -webkit-text-size-adjust: 100% !important;
+        -ms-text-size-adjust: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+      @media only screen and (max-device-width: 480px) {
+        .fixed-table-87 {
+          width: 87% !important;
+          max-width: 87% !important;
+          height: auto !important;
+        }
+        .fixed-table-100 {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+        }
+        .hero-bg {
+          background-image: none !important;
+        }
+        .header-logo {
+          width: 100% !important;
+          display: block !important;
+        }
+        .button {
+          width: 80% !important;
+        }
+        .mobile-black-text {
+          color: #333333 !important;
+        }
+        .mobile-blue-text {
+          color: #37475A !important;
+        }
+        .mobile-text-center {
+          text-align: center !important;
+        }
+        .social-logo {
+          width: 20px !important;
+        }
+        .hide-mobile {
+          display: none !important;
+          mso-hide:all !important;
+        }
+        .show-mobile {
+          display: block !important;
+          mso-hide: none !important;
+        }
+        .app-icons {
+          width: 125px !important;
+        }
+        .rm-bg-mobile {
+          background-color: #FFFFFF !important;
+        }
+        .rm-padding {
+          padding: 0 !important;
+        }
+        /* WELL STYLES */
+        .ws-wrapper {
+          width: 100% !important;
+        }
+        .ws-inner-wrapper {
+          width: 100% !important;
+        }
+        .ws-td {
+          display: inline-block !important;
+          width: 100% !important;
+        }
+        .ws-img {
+          width: 100% !important;
+          height: auto !important;
+        }
+        .ws-subheadline {
+          text-align: left !important;
+        }
+        .ws-table {
+          width: 100% !important;
+        }
+        /* /WELL STYLES */
+      }
+    </style>
+    <style>
+      a:link, a:hover, a:visited, a:active {
+        color: inherit;
+      }
+    </style>
+    <style type="text/css">
+      img {
+        border: 0;
+        outline: none;
+        text-decoration: none;
+      }
+      a img {
+        border: 0;
+        outline: none;
+        text-decoration: none;
+      }
+      .applelink a {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      /*This resolves the issue when iphone puts links on dates, etc.*/
+      .spacerFix {
+        font-size: 0%;
+      }
+      /*Outlook 2013 doesn't respect height in empty table cells add this class to the td to prevent blowing up*/ 
+      sup {
+        vertical-align: baseline !important;
+        position: relative !important;
+        top: -0.4em !important;
+      }
+      table, td {
+        border-collapse: collapse;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt !important;
+      }
+      body, table, td, p, a, li, blockquote {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+      body[yahoo] {
+        margin: 0 auto !important;
+      }
+      body[yahoo] td .stack_appbtn {
+        width: 100% !important;
+        display: block !important;
+        text-align: center !important;
+        padding: 0px !important;
+      }
+    </style>
+   <style type="text/css">
+
+ /*  @media(prefers-color-scheme:dark) {
+    .btn {
+      color: #1A3673 !important;
+    }
+
+    body,
+    body>table,
+    body>table>tbody>tr>td>table {
+      background-color: #121212 !important
+    }
+
+    h2 {
+      color: #efefef !important;
+    }
+
+    p, ul, li {
+      color: #efefef !important;
+    }
+    
+    img.dim-img {
+      filter: brightness(.8) contrast(1.2);
+    }
+
+    .dim-20 {
+      opacity: .2 !important;
+    }
+
+    .dim-30 {
+      opacity: .3 !important;
+    }
+
+    .dim-40 {
+      opacity: .4 !important;
+    }
+
+    .dim-50 {
+      opacity: .5 !important;
+    }
+
+    .dim-60 {
+      opacity: .6 !important;
+    }
+
+    .dim-70 {
+      opacity: .7 !important;
+    }
+
+    .rds {
+      border-radius: 8px;
+    }
+
+    .dc-white {
+      color: #ffffff !important;
+    }
+
+    .dc-blue {
+      color: #1355E9 !important;
+    }
+
+    .dc-navy {
+      color: #1A3673 !important;
+    }
+
+    .dc-gray{
+      color: #231E33!important;
+    }
+
+    .dark-bg-a {
+      background-color: #1355E9 !important;
+      border: #002ADA !important;
+    }
+
+    .dark-bg-a h2 {
+      color: #ffffff !important;
+    }
+
+    .dark-bg-a p {
+      color: #ffffff !important;
+    }
+
+    .dark-bg-cyan {
+      background-color: #E1EDFF !important;
+      border: #002ADA !important;
+    }
+
+    .dark-bg-green{
+      mso-shading: rgb(158,225,16)!important;
+      background: linear-gradient(rgb(158,225,16), rgb(158,225,16)) !important;
+      background-color: rgb(158,225,16)!important;
+      color:#1A3673 !important;
+    }
+
+    .dark-bg-cyan h2 {
+      color: #1A3673 !important;
+    }
+
+    .dark-bg-cyan p {
+      color: #030303 !important;
+    }
+
+    .dark-bg-0 {
+      background-color: #030303 !important;
+      border: #000000 !important;
+    }
+
+    .dark-bg-1 {
+      background-color: #121212 !important;
+      border: #262626 !important;
+    }
+
+    .dark-bg-2 {
+      background-color: #1e1e1e !important;
+      border: #333333 !important;
+    }
+
+    .dark-bg-3 {
+      background-color: #232323 !important;
+      border: #474747 !important;
+    }
+
+    .dark-bg-4 {
+      background-color: #373737 !important;
+      border: #797979 !important;
+    }
+
+   
+    .lm-image {
+      display: none !important;
+    }
+
+    .dm-image {
+      display: table-cell!important;
+    }
+  }
+
+ End Prefers Media Query   */
+ 
+
+  .show-bcbs-bg-cyan-h{
+    background: url('http://image.messageinsite.com/lib/fe5815707d6d0c747510/m/16/7ad45a58-ff7e-40e6-8e3d-2bc88a9554f5.png') top right  / cover !important;
+  }
+     
+  .show-bc-bg-cyan-h{
+    background: url('http://image.messageinsite.com/lib/fe5815707d6d0c747510/m/1/c0d4df27-2404-41b3-b755-26ef611b2350.jpg') top right  / cover !important;
+  }
+  
+     
+
+  @media only screen and (max-device-width: 480px) {
+      
+    .show-bcbs-bg {
+      background: url('http://image.messageinsite.com/lib/fe5815707d6d0c747510/m/16/8a69eaf3-ae5a-403c-8847-fcce3b8e9a24.png') top 30px right/ contain no-repeat !important;
+    }
+
+    .show-bc-bg {
+      background: url('http://image.messageinsite.com/lib/fe5815707d6d0c747510/m/16/49c9731d-eb69-4e06-b1fe-41d6d17022fe.png') top 30px right/ contain no-repeat !important;
+    }
+
+    .img-res {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+
+    .img-small-40{
+      width: 40px !important;
+      max-width: 100% !important;
+    }
+
+    /* Updated Heading Mobile Overwrite */
+    .h1 {
+      font-size: 28px !important;
+      line-height: 110% !important;
+    }
+
+    .h2 {
+      font-size: 24px !important;
+      line-height: 110% !important;
+    }
+
+    .h3 {
+      font-size: 20px !important;
+      line-height: 110% !important;
+    }
+
+    .h4 {
+      font-size: 18px !important;
+      line-height: 110% !important;
+    }
+
+    .btn{
+      font-size: 14px !important;
+    }
+    
+    /* Responsive alignment */
+
+    .v-mid{
+      vertical-align: middle !important;
+    }
+
+
+    /* Responsive padding to overwrite the inline styles on mobile */
+
+    .px-0 {
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+
+    .px-24, .px-20  {
+      padding-left: 24px !important;
+      padding-right: 24px !important;
+    }
+
+    .px-32 {
+      padding-left: 32px !important;
+      padding-right: 32px !important;
+    }
+
+    .py-0 {
+      padding-top: 0 !important;
+      padding-bottom: 0 !important;
+    }
+
+    .py-8 {
+      padding-top: 8px !important;
+      padding-bottom: 8px !important;
+    }
+
+    .py-16 {
+      padding-top: 16px !important;
+      padding-bottom: 16px !important;
+    }
+
+    .py-24, .py-20 {
+      padding-top: 24px !important;
+      padding-bottom: 24px !important;
+    }
+
+    .py-32 {
+      padding-top: 32px !important;
+      padding-bottom: 32px !important;
+    }
+
+    .py-48 {
+      padding-top: 48px !important;
+      padding-bottom: 48px !important;
+    }
+
+    .py-64 {
+      padding-top: 64px !important;
+      padding-bottom: 64px !important;
+    }
+
+    .py-96 {
+      padding-top: 96px !important;
+      padding-bottom: 96px !important;
+    }
+
+    .pr-0 {
+      padding-right: 0 !important;
+    }
+
+    .pl-0 {
+      padding-left: 0 !important;
+    }
+
+    .pl-24, .pl-20 {
+      padding-left: 24px !important;
+    }
+
+    .pl-32 {
+      padding-left: 32px !important;
+    }
+
+    .pt-0 {
+      padding-top: 0 !important;
+    }
+
+    .pt-16 {
+      padding-top: 16px !important;
+    }
+
+    .pt-32 {
+      padding-top: 32px !important;
+    }
+
+    .pb-0 {
+      padding-bottom: 0 !important
+    }
+
+    .pb-16 {
+      padding-bottom: 16px !important
+    }
+
+    .pb-32 {
+      padding-bottom: 32px !important
+    }
+
+    .pb-48 {
+      padding-bottom: 48px !important
+    }
+
+    .w-20{
+      width: 20% !important;
+    }
+
+    .w-30{
+      width: 30% !important;
+    }
+
+    .w-40{
+      width: 40% !important;
+    }
+
+    .w-50{
+      width: 50% !important;
+    }
+
+    .w-60{
+      width: 60% !important;
+    }
+    
+    .w-24px{
+      width: 24px !important;
+    }
+
+
+
+
+    /* Max width for swapping order on mobile */
+    .max-100{
+      max-width: 100% !important;
+    }
+
+  }
+</style>
+  <!--[if mso]>
+      <style>
+         .es-8{
+              /* Outlook-specific CSS goes here. */
+              margin-left:8px !important;
+          }
+  
+          .es-16{
+              /* Outlook-specific CSS goes here. */
+              margin-left:16px !important;
+          }
+
+          .es-20{
+              /* Outlook-specific CSS goes here. */
+              margin-left:20px !important;
+          }
+
+          .es-32{
+              /* Outlook-specific CSS goes here. */
+              margin-left:32px !important;
+          }
+
+          .closer__mso-cyan{
+            width: 300 !important;
+          }
+
+          ,closer__mso-cyan-inner{
+            padding: 64px 0 64px 32px !important;
+          }
+
+          @media(max-width: 480px){
+             .closer__mso-cyan{
+              display: inline-block !important;
+              width: 100% !important;
+            }
+
+            .closer__mso-cyan-inner{
+              padding: 32px 0 16px  24px !important;
+            }
+          }
+      </style>
+  <![endif]-->
+  </head>
+  <body style="margin: 0px;-webkit-text-size-adjust:none;font-family:Arial,Helvetica,sans-serif; width:100%;" yahoo="fix" bgcolor="#FFFFFF">
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#FFFFFF" role="presentation">
+      <tr>
+        <td align="center" valign="top" bgcolor="#FFFFFF" >
+          %%[ /* Enterprise_Branding_Legal_AMPscript */ ]%%
+<!--
+%%[
+/***** Setting variables *****/
+/***** Remove what you don't need! *****/
+SET @EmailAddress = EmailAddress
+SET @BrandAbbreviation = AttributeValue("BrandAbbreviation")
+SET @BrandID = AttributeValue("BrandID")
+SET @EmailBrand = AttributeValue("BrandAbbreviation")
+SET @BatchKey = AttributeValue("BatchKey")
+SET @LOB = AttributeValue("LOB")
+SET @CampaignAudienceKey = AttributeValue("CampaignAudienceKey")
+SET @PlanState = AttributeValue("PlanState")
+SET @BatchID = _JobSubscriberBatchID
+SET @JobID = JobID
+SET @SubscriberID = SubscriberID
+SET @MID = memberid
+SET @FirstName = AttributeValue("FirstName")
+SET @LegalLanguage = "EN"
+SET @VAR005 = AttributeValue("VAR005")
+SET @VAR001 = AttributeValue("VAR001")
+SET @version = AttributeValue("Version")
+SET @LOB = "GRS"
+
+/***** Sendlog Fields *****/
+SET @SubscriberKey = MCID
+SET @TouchPoint = TouchPoint
+
+/***** Sendlog Check *****/
+IF EMPTY(@SubscriberKey) THEN
+   RAISEERROR("Required @SubscriberKey value is NULL. Ensure @SubscriberKey is reflecting MCID value for Member emails.",true)
+ENDIF
+IF EMPTY(@TouchPoint) THEN
+   RAISEERROR("Required @TouchPoint value is NULL. Ensure @TouchPoint is reflecting CMD expectations.",true)
+ENDIF
+IF EMPTY(@LOB) THEN
+   RAISEERROR("Required @LOB value is NULL. Ensure @LOB is hard-coded into the email ampscript for Member emails.",true)
+ENDIF
+
+IF @BrandAbbreviation == "ABCBS" THEN
+ SET @BrandAbbreviation = "ABS"
+ENDIF
+
+/***** Get brand assets *****/
+
+IF NOT EMPTY(@BrandID) THEN
+  SET @BrandAssetsRows = LookupOrderedRows("ENT.BrandID_DE", 1, "BrandAbbreviation desc", "BrandID", @BrandID)
+ELSE
+  SET @BrandAssetsRows = LookupOrderedRows("ENT.Enterprise_Brand_VersioningGrid", 1, "BrandAbbreviation desc", "BrandAbbreviation", @BrandAbbreviation)
+ENDIF
+
+IF RowCount(@BrandAssetsRows) > 0 THEN
+  SET @Row = ROW(@BrandAssetsRows, 1)
+  
+  IF EMPTY(@BrandAbbreviation) THEN
+    SET @BrandAbbreviation = FIELD(@Row, "BrandAbbreviation", 0)
+  ENDIF
+  
+  SET @FormBrand = FIELD(@Row, "FormBrand", 0)
+  SET @BrandLogo = FIELD(@Row, "BrandLogo", 0)
+  SET @RevBrandLogo = FIELD(@Row, "RevBrandLogo", 0)
+  SET @BrandURL = FIELD(@Row, "BrandURL", 0)
+  SET @BrandName = FIELD(@Row, "BrandName", 0)
+  SET @BrandNameShort = FIELD(@Row, "BrandNameShort", 0)
+  SET @AltLanguages = FIELD(@Row, "AltLanguages", 0)
+  SET @SydneyTagline = FIELD(@Row, "SydneyTagline", 0)
+  SET @LegalTagline = FIELD(@Row, "LegalTagline", 0)
+  SET @AboutUsURL = FIELD(@Row, "AboutUsURL", 0)
+  SET @SecureMsgCenterURL = FIELD(@Row, "SecureMsgCenterURL", 0)
+  SET @PrefCenterURL = FIELD(@Row, "PrefCenterURL", 0)
+  SET @LegalShortName = FIELD(@Row, "LegalShortName", 0)
+  SET @PrivacyPolicyURL = FIELD(@Row, "PrivacyPolicyURL", 0)
+  SET @BusinessName = FIELD(@Row, "BusinessName", 0)
+  SET @BusinessStreetAddress = FIELD(@Row, "BusinessStreetAddress", 0)
+  SET @BusinessCity = FIELD(@Row, "BusinessCity", 0)
+  SET @BusinessState = FIELD(@Row, "BusinessState", 0)
+  SET @BusinessZip = FIELD(@Row, "BusinessZip", 0)
+  SET @BusinessCountry = FIELD(@Row, "BusinessCountry", 0)
+  SET @Campaign = FIELD(@Row, "Campaign", 0)
+  SET @ContactPhone = FIELD(@Row, "ContactPhone", 0)
+  SET @ContactHours = FIELD(@Row, "ContactHours", 0)
+  SET @FederalContractStatement = FIELD(@Row, "FederalContractStatement", 0)
+  SET @Confirm_ComplianceCode = FIELD(@Row, "Confirm_ComplianceCode", 0)
+  SET @Cancel_ComplianceCode = FIELD(@Row, "Cancel_ComplianceCode", 0)
+  SET @Refund_ComplianceCode = FIELD(@Row, "Refund_ComplianceCode", 0)
+ELSE
+  RaiseError(CONCAT("No brand assets found for argument ", IIF(NOT EMPTY(@BrandID), @BrandID, @BrandAbbreviation)))
+ENDIF
+
+ SET @BrandAssetsRows = LookupOrderedRows("GB_Paragon_Targeted_Brand_VG", 1, "BrandAbbreviation desc", "BrandAbbreviation", @BrandAbbreviation)
+
+IF RowCount(@BrandRows) > 0 THEN
+  SET @Row1 = ROW(@BrandRows, 1)
+  
+  IF EMPTY(@BrandAbbreviation) THEN
+    SET @BrandAbbreviation = FIELD(@Row1, "BrandAbbreviation", 0)
+  ENDIF
+  
+  SET @FormBrand = FIELD(@Row1, "FormBrand", 0)
+  SET @BrandLogo = FIELD(@Row1, "BrandLogo", 0)
+  SET @RevBrandLogo = FIELD(@Row1, "RevBrandLogo", 0)
+  SET @BrandURL = FIELD(@Row1, "BrandURL", 0)
+  SET @BrandName = FIELD(@Row1, "BrandName", 0)
+ENDIF
+
+/***** Get brand colors *****/
+SET @BrandColorsRows = LookupOrderedRows("ENT.Enterprise_Brand_Colors", 1, "BrandAbbreviation desc", "BrandAbbreviation", @BrandAbbreviation)
+
+IF RowCount(@BrandColorsRows) > 0 THEN
+  SET @Row = ROW(@BrandColorsRows, 1)
+  SET @PrimaryColor = FIELD(@Row, "PrimaryColor", 0)
+  SET @SecondaryColor = FIELD(@Row, "SecondaryColor", 0)
+  SET @TertiaryColor = FIELD(@Row, "TertiaryColor", 0)
+  SET @QuadColor = FIELD(@Row, "QuadColor", 0)
+  SET @ButtonColor = FIELD(@Row, "ButtonColor", 0)
+  SET @CopyColor = FIELD(@Row, "CopyColor", 0)
+ELSE
+  SET @PrimaryColor = "#0079C2"
+  SET @SecondaryColor = "#012169"
+  SET @TertiaryColor = "#F0F7FD"
+  SET @QuadColor = "#F7F7F7"
+  SET @ButtonColor = "#0079C2"
+  SET @CopyColor = "#333333"
+ENDIF
+
+/***** Unsub URL *****/
+SET @UnsubURL = CloudPagesURL(1654,'EmailBrand',@BrandAbbreviation,'MemberID',@MID)
+
+]%%
+-->
+        </td>
+      </tr>
+      <tr>
+        <td valign="top" align="center" bgcolor="#FFFFFF">
+          %%[ /* Enterprise_Custom_AMPscript */ ]%%
+<!--
+%%[
+/***** Subject, preheader *****/
+
+SET @Preheader = "Talk to your doctor to see if Paragon Healthcare is right for you."
+
+/***** Hero Image *****/
+IF BrandAbbreviation == "WLP" THEN
+
+SET @HeroImage = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/Hero+image+WLP.jpg"
+SET @CTA = "https://choose.wellpoint.com/medicare/wlp/all/paragon.html?cmp=EM-MKTCOMM-MC-PRGN-WLP"
+SET @Brand = "Wellpoint"
+SET @Paragon = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/WLP+paragon+logo.png"
+SET @Stetho = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/WLP+icon+stethoscope.png"
+SET @Trophy = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/WLP+icon+trophy+.png"
+SET @AboutUsURL = "https://www.wellpoint.com/about-us"
+
+ELSEIF BrandAbbreviation == "SHC" THEN 
+
+SET @HeroImage = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/Hero+image+WLP.jpg"
+SET @CTA = "https://choose.simplyhealthcareplans.com/medicare/shp/fl/paragon.html?cmp=EM-MKTCOMM-MC-PRGN-SHC"
+SET @Brand = "Simply Healthcare"
+SET @Paragon = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/Paragon+logo.png"
+SET @Stetho = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/SHP+icon+Stethoscope.png"
+SET @Trophy = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/SHP+icon+trophy.png"
+SET @QuadColor = "#E0F7FA"
+
+ELSEIF BrandAbbreviation == "HBL" THEN
+
+SET @HeroImage = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/Hero+image+WLP.jpg"
+SET @CTA = "https://choose.healthybluemo.com/medicare/hbmo/all/paragon.html?cmp=EM-MKTCOMM-MC-PRGN-HBMO"
+SET @Brand = "Healthy Blue"
+SET @Paragon = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/HBL+Paragon+logo.png"
+SET @Stetho = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/HBL+icon+stethoscope.png"
+SET @Trophy = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/HBL+ribbon+icon.png"
+SET @LegalTagLine = "Independent licensee of the Blue Cross Blue Shield Association."
+
+ELSEIF BrandAbbreviation == "ABCBS" THEN
+SET @HeroImage = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/16727665+1082335OHMENABS_Hero+Image.jpg"
+SET @CTA = "https://choose.anthem.com/medicare/abcbs/all/paragon.html?cmp=EM-MKTCOMM-MC-PRGN-ABCBS"
+SET @Brand = "Anthem"
+SET @Paragon = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/HBL+Paragon+logo.png"
+SET @Stetho = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/ABS+icon+stethoscope.png"
+SET @Trophy = "https://image.messageinsite.com/lib/fe34117271640478771776/m/1/ABS+icon+trophy.png"
+SET @LegalTagLine = "Independent licensee of the Blue Cross Blue Shield Association."
+
+ENDIF
+
+/***** Dynamic preheader and footer *****/
+/***** For the msg-smc variable, put "msg" or "smc", for the audience variable, put "b2b" or "member", and for brand voice, put "value-prop" if you need the value story look and feel, then remove comment syntax  *****/
+
+SET @msg_smc = "smc"
+SET @audience = "member"
+SET @brandVoice = ""
+
+/***** Custom color override *****/
+/***** Enter hex value between quotes, remove comment syntax *****/
+/*SET @PrimaryColor = ""*/
+/*SET @SecondaryColor = ""*/
+/*SET @TertiaryColor = ""*/
+/*SET @QuadColor = ""*/
+/*SET @ButtonColor = ""*/
+/*SET @CopyColor = ""*/
+
+/***** APEX Logo Override *****/
+/***** Remove comment syntax if design requires updated APEX logos *****/
+
+
+
+
+/***** Custom variables *****/
+/***** Enter the variable (word, name, number, etc.) between quotes *****/
+SET @clientName = ""
+SET @employeeName = ""
+SET @customURL = ""
+SET @phoneNum = ""
+SET @clientPhoneNum = ""
+SET @contactEmail = ""
+
+/***** Global SEED Handling for ANA BU *****/
+/***** If the target DE name contains "SampleSEED", it will prefix "SAMPLE: " onto the Subj Line. Remove comment Syntax if in ANA Business Unit *****/
+
+
+/***** CoBrand Section *****/
+
+
+/***** Additional Section *****/
+
+set @rows = LookupRows("GB_Paragon_Locations","VAR005", @VAR005)
+set @rowCount = rowcount(@rows)
+
+if @rowCount > 0 then
+
+  set @row = row(@rows,1)
+  set @CenterName = field(@row,"CenterName")
+  set @Location = field(@row,"Location")
+  set @URL = field(@row,"URL")
+  set @PhoneNumber = field(@row,"PhoneNumber")
+
+endif
+
+]%%
+-->
+        </td>
+      </tr>
+      <tr>
+        <td valign="top" align="center">
+          <table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" align="center" width="600" class="fixed-table-100" role="presentation">
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" bgcolor="%%=v(@PrimaryColor)=%%" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="left" class="pl-24 py-8" style="padding-left: 32px; " valign="middle">
+    <p style="font-family:Arial,Helvetica,sans-serif; font-size:10px; -webkit-text-size-adjust:100%; color:#FFFFFF; padding:0; margin:0;">
+     %%=v(@Preheader)=%%</p></td><td align="right" class="hide-mobile" style="padding:10px 32px;" valign="middle">
+    <p style="font-family:Arial,Helvetica,sans-serif; font-size:10px; -webkit-text-size-adjust:100%; padding:0; margin:0;">
+     <a href="%%view_email_url%%" style="text-decoration:none;" target="_blank"><span style="color:#FFFFFF; text-decoration:underline;">View email in a browser</span></a></p></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+          </table>
+          <table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" align="center" width="600" class="fixed-table-100" role="presentation">
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="left" class="px-24" style="padding: 16px 32px" valign="middle" width="48%">
+    <a href="%%=RedirectTo(@BrandURL)=%%" target="_blank"><img alt="%%=v(@BrandName)=%%" class="header-logo" src="%%=v(@BrandLogo)=%%" style="height: auto; max-width: 280px" width="280"></a></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+          </table>
+          <table cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#FFFFFF" width="600" class="fixed-table-100" role="presentation">
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; border: 0px; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="center" valign="top">
+    <img alt="" src="%%=v(@HeroImage)=%%" style="height:auto;display:block;" width="100%"></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+          </table>
+          <table cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#FFFFFF" width="600" class="fixed-table-100" role="presentation">
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; border: 0px; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner">%%[IF @BrandAbbreviation == "WLP" THEN]%%<table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td bgcolor="#EDF5FF" class="px-24" style="padding: 32px 30px 10px 30px " valign="top">
+        <h1 class="h1" style="font-size: 28px; line-height: 110%; font-family: Arial, Helvetica, sans-serif; color:#1A3673; padding: 0; margin: 0; font-weight: bold; text-align: center">
+         Infusion care with Paragon Healthcare</h1></td></tr><tr>
+       <td bgcolor="#EDF5FF" class="px-24" style="padding: 10px 32px 35px 32px">
+        <p style="font-size: 18px; line-height: 130%; font-family: Arial, Helvetica, sans-serif; color: #000000; padding: 0; margin-bottom: 20px; font-weight: normal; text-align: center">
+         There&rsquo;s an infusion center near you, and it&rsquo;s in your plan&rsquo;s network. Paragon Healthcare has over 20 years of infusion experience, and their highly trained team is accepting new patients.</p><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+         <!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="%%=RedirectTo(@CTA)=%%" style="height:40px;v-text-anchor:middle;width:240px;" arcsize="125%" stroke="f" fillcolor="#D91754">
+<w:anchorlock/>
+<center style="color:#ffffff;font-family:sans-serif;font-size:14px;font-weight:bold;">Visit our website</center>
+<![endif]-->
+          <tr>
+           <td align="center" bgcolor="#D91754" height="40" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 130%; font-weight: bold; border-radius: 50px" valign="middle">
+            <a alias="" class="btn dc-white" conversion="false" data-linkto="https://" href="%%=RedirectTo(@CTA)=%%" style="text-decoration:none;
+                                                                                                                                  background-color: #D91754;
+                                                                                                                                  border-radius: 50px;
+                                                                                                                                  display: inline-block;
+                                                                                                                                  font-family: sans-serif;
+                                                                                                                                  font-size: 16px;
+                                                                                                                                  font-weight: bold;
+                                                                                                                                  line-height: 40px;
+                                                                                                                                  text-align: center;
+                                                                                                                                  -webkit-text-size-adjust: none;
+                                                                                                                                  padding: 4px 32px;
+                                                                                                                                  " title=""><span style="color:#ffffff;">Visit our website</span></a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></td></tr></table><p>
+        </p></td></tr><tr>
+       <td style="text-align: center" valign="top">
+        <img alt="" src="http://image.messageinsite.com/lib/fe3011727164047f7d1175/m/1/clipped_cyan_pointer_png.png" style="display: block; width: 104px; height: auto; margin: 0 auto"></td></tr></table></td></tr></table> %%[ELSE]%%<table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" style="background-color: #1355e9; background-color: %%=v(@PrimaryColor) =%%" width="600">
+ 
+  <tr>
+   <td align="center" class="px-24 py-32" style="padding: 64px 32px" valign="top">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td align="center" style="padding-bottom: 16px" valign="top">
+        <h1 class="h2" style="font-family: Arial, Helvetica, sans-serif; font-size: 34px; line-height: 110%; color: #ffffff; padding: 0; margin: 0; font-weight: normal; text-align: left">
+         <strong>Infusion care with Paragon Healthcare</strong></h1></td></tr><tr>
+       <td align="center" style="padding-bottom: 24px; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 130%; color: #ffffff; margin: 0; text-align: left" valign="top">
+        <p style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 130%; color: #ffffff; padding: 0; margin: 0; text-align: left">
+         There&rsquo;s an infusion center near you, and it&rsquo;s in your plan&rsquo;s network. Paragon Healthcare has over 20 years of infusion experience, and their highly trained team is accepting new patients.</p></td></tr><tr>
+       <td align="left" valign="top">
+        <div>
+         <!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="%%=RedirectTo(@CTA)=%%" style="height:36px;v-text-anchor:middle;width:220px;" arcsize="125%" stroke="f" fillcolor="%%=v(@ButtonColor)=%%">
+<w:anchorlock/>
+<center style="color:#1A3673;font-family:sans-serif;font-size:16px;font-weight:bold;">Visit our website</center>
+<![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+          
+           <tr>
+            <td align="center" bgcolor="%%=v(@ButtonColor)=%%" height="40" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; font-weight: bold; border-radius: 50px" valign="middle">
+             <a class="btn" href="%%=RedirectTo(@CTA)=%%" style="background-color: %%=v(@ButtonColor)=%%; border-radius: 50px; color: #1a3673; display: inline-block; font-family: sans-serif; font-size: 16px; font-weight: bold; line-height: 40px; text-align: center; text-decoration: none; -webkit-text-size-adjust: none; padding: 4px 32px;">Visit our website</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></td></tr></table></div></td></tr></table></td></tr></table> %%[ENDIF]%%</td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 30px 0px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="left" class="px-24" style="padding: 0 32px" valign="top">
+    <h2 style="font-size:24px; line-height:110%; font-family:Arial,Helvetica,sans-serif; color:%%=v(@CopyColor)=%%;margin:0; font-weight:bold;text-align:left;">
+     Conveniently located in %%=v(@VAR005)=%%</h2></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td class="px-24" style="padding:0 32px 32px;">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td align="left" class="lm-image ws-td" style="padding-right:30px;" valign="top">
+        <!-- DARK LIGHT MODE IMAGES --><!-- LIGHT MODE IMAGE --><img alt="" border="0" src="%%=v(@Paragon)=%%" style="display: inline-block; height: auto" width="75"></td><td align="left" class="dm-image" style="display: none">
+        <!-- DARK MODE IMAGE --><img alt="" border="0" src="%%=v(@Paragon)=%%" style="" width="75"></td><td align="left" valign="middle" width="100%">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+         
+          <tr>
+           <td align="left" style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:130%; color:%%=v(@CopyColor)=%%; " valign="middle">
+            <p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:130%; color:%%=v(@CopyColor)=%%;margin:0;padding:0">
+             Paragon %%=v(@VAR005)=%% Infusion Center<br>
+             <a href="%%=RedirectTo(@URL)=%%" style="color:%%=v(@CopyColor)=%%">%%=v(@Location)=%%<br>
+             %%=v(@PhoneNumber)=%%</a></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 20px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td class="px-24" style="padding:0 32px 32px;">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation">
+     
+      <tr>
+       <td align="left" class="lm-image" style="padding-right:30px" valign="middle">
+        <!-- DARK LIGHT MODE IMAGES --><!-- LIGHT MODE IMAGE --><img alt="" border="0" src="%%=v(@Trophy)=%%" style="display: inline-block; height: auto" width="75"></td><td align="left" class="dm-image" style="display: none">
+        <!-- DARK MODE IMAGE --><img alt="" border="0" src="%%=v(@Trophy)=%%" style="" width="75"></td><td align="left" valign="middle" width="100%">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+         
+          <tr>
+           <td align="left" style="font-family:Arial,Helvetica,sans-serif; font-size:20px; line-height:130%; color:%%=v(@CopyColor)=%%;margin:0;padding:0" valign="top">
+            <p style="font-family:Arial,Helvetica,sans-serif; font-size:20px; line-height:130%; color:%%=v(@CopyColor)=%%;margin:0;padding:0">
+             <b>20+ years of infusion experience</b></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 20px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td class="px-24" style="padding:0 32px 32px;">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation">
+     
+      <tr>
+       <td align="left" class="lm-image" style="padding-right:30px" valign="middle">
+        <!-- DARK LIGHT MODE IMAGES --><!-- LIGHT MODE IMAGE --><img alt="" border="0" src="%%=v(@Stetho)=%%" style="display: inline-block; height: auto" width="75"></td><td align="left" class="dm-image" style="display: none">
+        <!-- DARK MODE IMAGE --><img alt="" border="0" src="%%=v(@Stetho)=%%" style="" width="75"></td><td align="left" valign="middle" width="100%">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+         
+          <tr>
+           <td align="left" style="font-family:Arial,Helvetica,sans-serif; font-size:20px; line-height:130%; color:%%=v(@CopyColor)=%%;margin:0;padding:0" valign="middle">
+            <p style="font-family:Arial,Helvetica,sans-serif; font-size:20px; line-height:130%; color:%%=v(@CopyColor)=%%;margin:0;padding:0">
+             <b>200+ infusible therapies</b></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px 0px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="left" class="px-24" style="padding: 0 32px" valign="top">
+    <h2 style="font-size:18px; line-height:110%; font-family:Arial,Helvetica,sans-serif; color:%%=v(@CopyColor)=%%;margin:0; font-weight:bold;text-align:left;">
+     Paragon Healthcare offers start-to-finish support with:</h2></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 20px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="left" class="px-24" style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:20px; color:%%=v(@CopyColor)=%%; text-align:left; padding: 0 28px" valign="middle">
+    <ul>
+     <li style="font-family: Arial, Helvetica, sans-serif; color: %%=v(@CopyColor)=%%; text-align: left; font-size: 16px; line-height: 130%; margin-bottom:8px;">
+      <b>Simple scheduling</b> with flexible appointment times.</li><li style="font-family: Arial, Helvetica, sans-serif; color: %%=v(@CopyColor)=%%; text-align: left; font-size: 16px; line-height: 130%; margin-bottom:8px;">
+      <b>Insurance help.</b> They can check your coverage, handle approvals, and help find financial assistance, if needed.</li><li style="font-family: Arial, Helvetica, sans-serif; color: %%=v(@CopyColor)=%%; text-align: left; font-size: 16px; line-height: 130%; margin-bottom:8px;">
+      <b>Clear communication</b> with both you and your doctor.</li></ul></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 0px 0px; " class="stylingblock-content-wrapper camarker-inner">%%[IF @BrandAbbreviation == "WLP" THEN]%%<table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td bgcolor="#1A3673" class="px-24" style="padding: 32px 32px 0px 32px" valign="top">
+        <h2 style="font-size: 28px; line-height: 110%; font-family: Arial, Helvetica, sans-serif; color: #44b8f3; padding: 0; margin: 0; font-weight: normal; text-align: center">
+         <strong>How to get started:</strong></h2></td></tr><tr>
+       <td bgcolor="#1A3673" class="px-24" style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:20px; color:#FFFFFF; text-align:left; padding: 20px 32px 8px 32px" valign="top">
+        <ol>
+         <li style="margin-bottom:10px;">
+          Talk to your doctor to see if Paragon Healthcare may be a good choice for you.*</li><li style="margin-bottom:10px;">
+          Call <a style="text-decoration:none;"><b>%%=v(@PhoneNumber)=%%</b></a>. Paragon will gather your information and then work with your doctor to prepare an infusion order for them.</li></ol></td></tr><tr>
+       <td bgcolor="#1A3673" class="ws-td" style="padding: 8px 32px 32px 32px">
+        <p style="font-family:Arial,Helvetica,sans-serif; color:#ffffff; text-align:center; font-size:16px; line-height:130%; margin:0; padding:0;">
+         To learn more about Paragon Healthcare, go to <a alias="%%=v(@LegalShortName)=%%" conversion="false" data-linkto="https://" href="%%=RedirectTo(@CTA)=%%" style="color:#FFFFFF;text-decoration:underline;" title="choose.anthem.com"><b>%%=v(@LegalShortName)=%%</b></a>. For questions about your benefits, contact Wellpoint using the number on your member ID card.</p></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td style="text-align: center">
+        <img alt="" src="http://image.messageinsite.com/lib/fe3011727164047f7d1175/m/1/clipped_blue_pointer_png.png" style="display: block;  width: 105px; height: auto; margin: 0 auto;"></td></tr></table>%%[ELSE]%%<table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" style="background-color: %%=v(@QuadColor)=%%;" width="600">
+     
+      <tr>
+       <td align="center" class="py-32 px-24" style="padding: 32px 32px" valign="top">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+         
+          <tr>
+           <td align="center" class="ws-td" style="padding-bottom: 16px" valign="top">
+            <h2 style="font-family:Arial,Helvetica,sans-serif; font-size:24px; line-height:32px; color:#1A3673; padding:0; margin:0; font-weight:normal; text-align:left;">
+             <strong>How to get started:</strong></h2></td></tr><tr>
+           <td align="center" class="ws-td" valign="top">
+            <ol>
+             <li style="font-family: Arial, Helvetica, sans-serif; color: #1A3673; text-align: left; font-size: 16px; line-height: 130%; margin-bottom:8px;">
+              Talk to your doctor to see if Paragon Healthcare may be a good choice for you.*</li><li style="font-family: Arial, Helvetica, sans-serif; color: #1A3673; text-align: left; font-size: 16px; line-height: 130%; margin-bottom:8px;">
+              Call <b> <a style="text-decoration:none;"> %%=v(@PhoneNumber)=%%</a> </b>. Paragon will gather your information and then work with your doctor to prepare an infusion order for them.</li></ol><p style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:20px; color:#1A3673; padding:0; margin:0; text-align:left;">
+             To learn more about Paragon Healthcare, go to <b> <a alias="%%=v(@LegalShortName)=%%" conversion="false" data-linkto="https://" href="%%=RedirectTo(@CTA)=%%" style="color:#1A3673;text-decoration:underline;" title="choose.anthem.com">%%=v(@LegalShortName)=%%</a> </b>. For questions about your benefits, contact %%=v(@Brand)=%% using the number on your member ID card.</p></td></tr></table></td></tr></table> %%[ENDIF]%%</td></tr></table></td></tr></table>
+              </td>
+            </tr>
+          </table>
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="600" class="fixed-table-100" role="presentation">
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="center" style="padding:30px" valign="top">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="150">
+     
+      <tr>
+       <td align="center" colspan="4" style="padding-bottom:20px;" valign="top">
+        <p style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:20px; text-align:center; color:%%=v(@CopyColor)=%%; padding:0; margin:0;">
+         <b>Was this email helpful?</b></p></td></tr><tr>
+       <td align="center" valign="middle" width="50">
+        <p style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:16px; margin:0; padding:0; text-align:center;">
+         <a href="https://survey3.medallia.com/?campaign-feedback&id=PAREXPEM25&helpful=Yes&format=lofy" style="text-decoration:none; color:%%=v(@CopyColor)=%%; cursor:pointer; padding:0;" target="_blank"><img alt="Email was Helpful" role="presentation" src="http://image.messageinsite.com/lib/fe33117271640478771777/m/1/a85691dd-e24c-4bab-b42b-74e135922e68.png" style="height:auto; padding-bottom:8px;" width="45"><br>
+         Yes</a></p></td><td align="center" valign="middle" width="50">
+        <p style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:16px; margin:0; padding:0; text-align:center;">
+         <a href="https://survey3.medallia.com/?campaign-feedback&id=PAREXPEM25&helpful=No&format=lofy" style="text-decoration:none; color:%%=v(@CopyColor)=%%; cursor:pointer; padding:0;" target="_blank"><img alt="Email was NOT Helpful" role="presentation" src="http://image.messageinsite.com/lib/fe33117271640478771777/m/1/812a8cf1-97ea-426a-a988-d4974687df70.png" style="height:auto; padding-bottom:8px;" width="45"><br>
+         No</a></p></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="center" class="px-24" style="padding: 16px 32px 16px 32px;">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td align="center" valign="top">
+        <p style="line-height: 11px; font-family: Arial, Helvetica, sans-serif; color:%%=v(@CopyColor)=%%; font-size: 11px; text-align:left; padding:0; margin:0;">
+         * Paragon Healthcare is a separate company that provides infusion provider services in network with your health plan. You may choose any in-network infusion provider. To explore more in-network care options, log in to <b>%%=v(@LegalShortName)=%%</b> or the Sydney&reg; Health app to find care.<br>
+         <br>
+         Sydney Health is offered through an arrangement with Carelon Digital Platforms, a separate company offering mobile application services on behalf of your health plan.</p></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="center" class="px-24" style="padding: 16px 32px 0 32px;">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td align="left" style="padding:0 0 30px 0" valign="top">
+        <a href="%%=RedirectTo(@BrandURL)=%%" target="_blank"><img alt="%%=v(@BrandName)=%%" class="header-logo" src="%%=v(@BrandLogo)=%%" style="height:auto; max-width:280px;" width="280"></a></td></tr><tr>
+       <td align="center" valign="top">
+        <p style="line-height: 11px; font-family: Arial, Helvetica, sans-serif; color:%%=v(@CopyColor)=%%; font-size: 11px; text-align:left; padding:0; margin:0;">
+         <strong>Please don&rsquo;t reply to this email. We want to help you, but these messages aren&rsquo;t monitored.</strong> If you have questions, please <a alias="Secure_Message_Center" conversion="false" href="%%=RedirectTo(@SecureMsgCenterURL)=%%" style="color:%%=v(@PrimaryColor)=%%;" target="_blank">log in to chat with a representative</a> during business hours. It&rsquo;s the quickest and safest way to contact us.<br>
+         <br>
+         <a alias="VIEW_WITH_IMAGES" conversion="undefined" href="%%view_email_url%%" style="color:%%=v(@PrimaryColor)=%%;" target="_blank">VIEW WITH IMAGES</a> | ADD US TO YOUR SAFE SENDERS LIST OR ADDRESS BOOK.<br>
+         <br>
+         <strong>Language Access Services (TTY/TDD: 711)</strong><br>
+         <br>
+         <a href="%%=RedirectTo(@AltLanguages)=%%" style="color:%%=v(@PrimaryColor)=%%;" target="_blank">ALTERNATE LANGUAGES</a><br>
+         <br>
+         We comply with applicable Federal civil rights laws and do not discriminate on the basis of race, color, national origin, age, disability, or sex.<br>
+         <br>
+         %%=v(@LegalTagline)=%% Read more <a href="%%=v(@AboutUsURL)=%%">about us.</a><br>
+         <br>
+         This email was sent to: %%=v(@EmailAddress)=%%<br>
+         <br>
+         This email was sent by: %%=v(@BrandName)=%%, 220 Virginia Avenue, Indianapolis, IN 46204<br>
+         <br>
+         Manage your communication preferences on <a alias="Manage Preferences" conversion="undefined" href="%%=RedirectTo(@PrefCenterURL)=%%" style="color:%%=v(@PrimaryColor)=%%;" target="_blank">%%=v(@LegalShortName)=%%</a>.<br>
+         <br>
+         If you no longer want to receive this type of communication, simply <a alias="Unsubscribe" conversion="undefined" href="%%=RedirectTo(@UnsubURL)=%%" style="color:%%=v(@PrimaryColor)=%%;" target="_blank">unsubscribe</a>.</p></td></tr></table></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 30px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+ 
+  <tr>
+   <td align="center" style="padding:5px 0;" valign="top">
+    &nbsp;</td></tr><tr>
+   <td align="center" class="px-24" style="padding: 0 32px ;" valign="top">
+    <p style="font-family:Arial,Helvetica,sans-serif; font-size:9px; line-height:11px; color:%%=v(@CopyColor)=%%; text-align:left; padding:0; margin:0;">
+     Y0114_26_3019785_0000_I_C 03/06/2026</p></td><td align="center" class="px-24" style="padding: 0 32px ;" valign="top">
+    <p style="font-family:Arial,Helvetica,sans-serif; font-size:9px; line-height:11px; color:%%=v(@CopyColor)=%%; text-align:left; padding:0; margin:0;">
+     <a style="line-height: 11px; font-family: Arial, Helvetica, sans-serif; color:%%=v(@CopyColor)=%%; font-size: 9px;"> 1088676%%=v(@PlanState)=%%M%%=v(@LegalLanguage)=%%%%=v(@FormBrand)=%%_%%=v(@version)=%%</a></p></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+          </table>
+          <table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" align="center" width="600" class="fixed-table-100" role="presentation">
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif;" >
+                
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="center" class="fallback-text" style="font-family:Arial,Helvetica,sans-serif; padding-bottom:30px;">
+                
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <table cellpadding="0" cellspacing="0" border="0" role="presentation">
+      <tr>
+        <td height="1" class="hide" style="font-size:0px;line-height:0px;">
+          <img height="1" alt="" src="http://image.messageinsite.com/lib/fe5615707d600c747210/m/1/master-space.gif" style=" text-decoration: none; border: none; -ms-interpolation-mode: bicubic;" />
+        </td>
+      </tr>
+    </table>
+    <custom name="opencounter" type="tracking">
+    </custom>
+  </body>
+</html>
