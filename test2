@@ -1,52 +1,46 @@
-<tr>
-   <td align="left">
-    <table align="center" border="0" cellpadding="0" cellspacing="0" class="fixed-table-100" role="presentation" width="600">
+<table bgcolor="#ddf4f3" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="center" class="px-24" style="font-family: Arial, Helvetica, sans-serif; font-size: 28px; line-height: 35px; padding: 30px 32px; margin: 0px; font-weight: normal; color:#00498D; text-align: left;" valign="top">
+    <h2 class="h2" style="font-family: Arial, Helvetica, sans-serif; font-size: 28px; line-height: 35px; padding: 0px; margin: 0px; font-weight: normal; color:%%=v(@Textcolor)=%%; text-align: left;">
+     %%[IF @VAR016 == 0 THEN]%% %%[IF @VAR4040 == 1 THEN]%% <strong>You can get a flu vaccine at no cost when you go to a pharmacy in network</strong> %%[ELSEIF @VAR4040 == 3 THEN]%% <strong>Your child can get a flu vaccine at no cost when you go to a pharmacy in network</strong> %%[ENDIF]%% %%[ENDIF]%%</h2></td></tr><tr>
+   <td align="left" class="px-24" style="padding: 0 32px">
+    %%[IF @VAR016 == 0 THEN]%% %%[IF @VAR4040 == 1 THEN]%%<table bgcolor="#ddf4f3" cellpadding="0" cellspacing="0" role="presentation" width="100%">
      
       <tr>
-       <td class="padlr20" align="center" style="font-family:Arial,Helvetica,sans-serif; color:#333333; text-align:left; font-size:16px; line-height:24px; padding:0px 20px 32px 32px;" valign="top">
-       
-       <table width="100%" border="0" cellspacing="0" cellpadding="0">
-     <tr>
-	<td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-     <tr>
-<td width="20" align="center" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; line-height:24px; padding:0px 0px 0px 0px;">&bull;</td>
-	
-<td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; line-height:24px; padding:0px 0px 0px 0px;">  Can reduce severe flu symptoms like chills and trouble breathing, as well as your child&rsquo;s chances of ending up in the emergency room.</td>
-    </tr>
-</table></td>
-    </tr>
-     <tr>
-	<td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-     <tr>
-<td width="20" align="center" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; line-height:24px; padding:0px 0px 0px 0px;">&bull;</td>
-	
-<td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; line-height:24px; padding:0px 0px 0px 0px;">  Can protect your child the earlier they get it. Doctors recommend <a style="color:#333333;">September or&nbsp;October</a>.</td>
-    </tr>
-</table></td>
-    </tr>
-<tr>
-	<td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-     <tr>
-<td width="20" align="center" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; line-height:24px; padding:0px 0px 0px 0px;">&bull;</td>
-	
-<td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; line-height:24px; padding:0px 0px 0px 0px;">  Can protect your child through the end of flu season, even if they don&rsquo;t get it until <a style="color:#333333;">February</a>.</td>
-    </tr>
-</table></td>
-    </tr>
-
- <tr>
-	<td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-     <tr>
-<td width="20" align="center" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; line-height:24px; padding:0px 0px 0px 0px;">&bull;</td>
-	
-<td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; line-height:24px; padding:0px 0px 0px 0px;">   Is the best way to protect your child, your family, and friends from getting&nbsp;the&nbsp;flu.</td>
-    </tr>
-</table></td>
-    </tr>
-
-</table>
-       
-
-
-
-       </td></tr></table></td></tr>
+       <td align="left" style="padding: 0 0 40px 0" valign="top">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+         
+          <tr>
+           <td align="center" valign="middle">
+            <div>
+             <!--[if gte mso 9]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:o="urn:schemas-microsoft-com:office:office" href="https://member.anthem.com/public/login?cmp=EM-MEDICAID-SydneyReg_eng_FAM1-ABCBS-NY" target="_blank" title="" alias=""  style="height:35px;v-text-anchor:middle;width:250px;" arcsize="50%" strokecolor="#9EE110" fillcolor="#9EE110">
+<w:anchorlock/>
+<center style="color:#1A3673;font-family:sans-serif;font-size:14px;font-weight:bold;"><b>Log in to the Sydney Health app</b></center>
+</v:roundrect>
+<![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;mso-hide:all;">
+              
+               <tr>
+                <td align="center" bgcolor="#9EE110" height="40" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 130%; font-weight: bold; border-radius: 50px" valign="middle">
+                 <a class="btn dc-white" href="https://member.anthem.com/public/login?cmp=EM-MEDICAID-SydneyReg_eng_FAM1-ABCBS-NY" style="background-color: #9EE110;border-radius: 50px;color: #1A3673;display: inline-block;font-family: sans-serif;font-size: 16px;font-weight: bold;line-height: 40px;text-align: center;text-decoration: none;-webkit-text-size-adjust: none;padding: 4px 32px; mso-hide:all;">Log in to the Sydney Health app</a></td></tr></table></div></td></tr></table></td></tr></table> %%[ELSEIF @VAR4040 == 3 THEN]%%<table bgcolor="#ddf4f3" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td align="left" style="padding: 0 0 40px 0" valign="top">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+         
+          <tr>
+           <td align="left" height="40" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; font-weight: bold" valign="middle">
+            <div>
+             <!--[if gte mso 9]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:o="urn:schemas-microsoft-com:office:office" href="https://www.summitcommunitycare.com/arkansas-passe/care/find-a-doctor.html?cmp=EM_MDCD_OMNI_FLU2026_AR_SCC" target="_blank" title="" alias=""  style="height:35px;v-text-anchor:middle;width:250px;" arcsize="50%" strokecolor="#00498D" fillcolor="#00498D">
+<w:anchorlock/>
+<center style="color:#ffffff;font-family:sans-serif;font-size:14px;font-weight:bold;"><b> Find a flu vaccine near you</b></center>
+</v:roundrect>
+<![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;mso-hide:all;">
+              
+               <tr>
+                <td align="center" bgcolor="#00498D" height="40" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 130%; font-weight: bold; border-radius: 50px" valign="middle">
+                 <a class="btn dc-white pd12cta" href="https://www.summitcommunitycare.com/arkansas-passe/care/find-a-doctor.html?cmp=EM_MDCD_OMNI_FLU2026_AR_SCC" style="background-color: #00498D;border-radius: 50px;color: #ffffff;display: inline-block;font-family: sans-serif;font-size: 16px;font-weight: bold;line-height: 40px;text-align: center;text-decoration: none;-webkit-text-size-adjust: none;padding: 4px 32px; mso-hide:all;">Find a flu vaccine near you</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></td></tr></table></div></td></tr></table></td></tr></table> %%[ENDIF]%% %%[ENDIF]%%</td></tr></table>
