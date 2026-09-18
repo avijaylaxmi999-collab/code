@@ -1,36 +1,100 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 0px;" role="presentation"  bgcolor="#00498D">
-     <tr>
-	<td align="left" valign="top" class="pad20"><table border="0" cellpadding="0" cellspacing="0" width="600" style="border: 0px;" role="presentation" bgcolor="#00498D" class="fixed-table-100" align="center">
-     <tr>
-	<td align="left" valign="middle" style="padding:0px 0" class="ws-td px-24" width="20%">
-	<img alt="Summit Community Care" class="header-logo" src="http://image.messageinsite.com/lib/fe6615707c6406787413/m/1/18acde38-4e89-48fa-8b3f-a76881e6bc5a.png" style="height: auto; max-width: 200px;" width="200">	</td>
-	<td align="left" valign="top" class="ws-td" width="60%">
-	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 0px;" role="presentation">
-   <tr>
-								<td align="left" style="font-family: Arial,Helvetica,sans-serif; color: #ffffff; text-align: left; font-size: 16px; line-height: 24px; margin: 0; padding: 20px 10px 20px 20px;" valign="top" class="px-24">
-								Reduce your child&rsquo;s chance of getting sick 
-								and missing out on work, school, and plans with 
-								family and friends by getting the flu vaccine. It 
-								only takes minutes, while average flu symptoms can 
-								last several days. The flu vaccine:</td>
-							</tr>
-     <tr>
-	<td align="left" valign="top" style="padding:0 0 0 20px" class="px-24">
-	<table border="0" cellpadding="0" cellspacing="0" width="300" style="border: 0px;" role="presentation" bgcolor="#f49926" >
-    <tr>
-								<td align="left" style="font-family: Arial,Helvetica,sans-serif; color: #00498D; text-align:center; font-size: 16px; line-height: 24px; margin: 0; padding: 10px 15px; font-weight:bold;" valign="top">
-								<a href="#" style="color: #00498D;text-decoration: none;">CTA text here</a></td>
-							</tr>
-</table>
-	
-	</td>
-    </tr>
-
-</table>
-	
-	</td>
-	<td align="left" valign="top" class="ws-td" width="20%">&nbsp;</td>
-    </tr>
-</table></td>
-    </tr>
-</table>
+<table bgcolor="#0099CC" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="center" class="px-24" style="font-family: Arial, Helvetica, sans-serif; font-size: 28px; line-height: 35px; padding: 30px 32px; margin: 0px; font-weight: normal; color: #ffffff; text-align: left;" valign="top">
+    <h2 class="h2" style="font-family: Arial, Helvetica, sans-serif; font-size: 28px; line-height: 35px; padding: 0px; margin: 0px; font-weight: normal; color:#ffffff; text-align: left;">
+     %%[IF @VAR016 == 0 THEN]%% %%[IF @VAR4040 == 1 THEN]%% You can get a flu vaccine at no cost when you go to a local pharmacy %%[ELSEIF @VAR4040 == 3 THEN]%% Your child can get a flu vaccine at no cost when you go to a local pharmacy or a doctor in network %%[ENDIF]%% %%[ELSEIF @VAR016 == 1 THEN]%% %%[IF @VAR4040 == 2 THEN]%% Puede ponerse una vacuna contra la influenza sin costo cuando usted va a una farmacia local %%[ELSEIF @VAR4040 == 4 THEN]%% Su hijo puede ponerse una vacuna contra la influenza sin costo cuando usted va a una farmacia o a un m&eacute;dico local de la red %%[ENDIF]%% %%[ENDIF]%%</h2></td></tr><tr>
+   <td align="left" class="px-24" style="padding: 0 32px">
+    %%[IF @VAR016 == 0 THEN]%%<table bgcolor="#0099CC" cellpadding="0" cellspacing="0" role="presentation">
+     
+      <tr>
+       <td align="left" style="padding: 0 0 40px 0" valign="top">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+         
+          <tr>
+           <td align="left" valign="middle">
+            <!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+href="https://www.anthembluecross.com/find-care/?cmp=EM_MDCD_OMNI_FLU2026_NY_ABC"
+target="_blank"
+style="height:60px;width:400px;v-text-anchor:middle;"
+arcsize="50%"
+strokecolor="#9EE110"
+fillcolor="#9EE110">
+<w:anchorlock/>
+<v:textbox inset="0,0,0,0">
+<center style="
+color:#1A3673;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+font-weight:bold;
+line-height:18px;
+text-align:center;">
+Find a flu vaccine near you
+</center>
+</v:textbox>
+</v:roundrect>
+<![endif]--><!--[if !mso]><!-- --><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-hide: all;">
+             
+              <tr>
+               <td align="center" bgcolor="#9EE110" style="border-radius:50px;">
+                <a href="https://www.anthembluecross.com/find-care/?cmp=EM_MDCD_OMNI_FLU2026_NY_ABC" style="
+                                                                                                                  display:inline-block;
+                                                                                                                  width:320px;
+                                                                                                                  height:50px;
+                                                                                                                  line-height:50px;
+                                                                                                                  background-color:#9EE110;
+                                                                                                                  border-radius:50px;
+                                                                                                                  color:#1A3673;
+                                                                                                                  font-family:Arial,Helvetica,sans-serif;
+                                                                                                                  font-size:16px;
+                                                                                                                  font-weight:bold;
+                                                                                                                  text-align:center;
+                                                                                                                  text-decoration:none;
+                                                                                                                  -webkit-text-size-adjust:none;mso-hide: all;" target="_blank">Find a flu vaccine near you</a></td></tr></table><!--<![endif]--></td></tr></table></td></tr></table> %%[ELSE]%%<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+     
+      <tr>
+       <td align="left" style="padding-bottom: 32px" valign="middle">
+        <!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+href="https://www.anthembluecross.com/find-care/?cmp=EM_MDCD_OMNI_FLU2026_NY_ABC"
+target="_blank"
+style="height:60px;width:400px;v-text-anchor:middle;"
+arcsize="50%"
+strokecolor="#9EE110"
+fillcolor="#9EE110">
+<w:anchorlock/>
+<v:textbox inset="0,0,0,0">
+<center style="
+color:#1A3673;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+font-weight:bold;
+line-height:18px;
+text-align:center;
+margin:0;
+padding:0;">
+Encuentre una vacuna contra la influenza cerca de usted
+</center>
+</v:textbox>
+</v:roundrect>
+<![endif]--><!--[if !mso]><!-- --><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-hide: all;">
+         
+          <tr>
+           <td align="center" bgcolor="#9EE110" style="border-radius:50px;">
+            <a href="https://www.anthembluecross.com/find-care/?cmp=EM_MDCD_OMNI_FLU2026_NY_ABC" style="
+                                                                                                            display:inline-block;
+                                                                                                            width:450px;
+                                                                                                            height:50px;
+                                                                                                            line-height:50px;
+                                                                                                            background-color:#9EE110;
+                                                                                                            border-radius:50px;
+                                                                                                            color:#1A3673;
+                                                                                                            font-family:Arial,Helvetica,sans-serif;
+                                                                                                            font-size:15px;
+                                                                                                            font-weight:bold;
+                                                                                                            text-align:center;
+                                                                                                            text-decoration:none;
+                                                                                                            -webkit-text-size-adjust:none;mso-hide: all;" target="_blank">Encuentre una vacuna contra la influenza cerca de usted</a></td></tr></table><!--<![endif]--></td></tr></table> %%[ENDIF]%%</td></tr></table>
